@@ -71,6 +71,6 @@ rules:
 ### Message received in Slack when Analyst clicks on Yes
 ![Slack Message](https://github.com/Prajwal-Manjunath/SOAR-EDR-Playbook-Project/blob/main/device_isolated.png)
 
-### Detail Explanation
+### Result
 This playbook serves as a hands-on learning tool for SOC teams helping them understand how to build, test, and deploy automated security responses using SOAR and EDR technologies.
 
